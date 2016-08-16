@@ -1,0 +1,4 @@
+ul li, ul li img {
+	*display: inline;
+	*zoom: 1;
+}
